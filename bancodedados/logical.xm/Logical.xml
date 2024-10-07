@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="81B3BFDB-8CB5-68A6-FD1B-4E2C3E7CCFB8" mainViewID="D08A92A3-963E-BB8F-7AA1-FF7C013D54C2">
+<createdBy>Renato</createdBy>
+<createdTime>2024-10-06 16:26:52 UTC</createdTime>
+<ownerDesignName>sprint_bancodedados</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>
